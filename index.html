@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário do Doguinho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="interface">
+        <div class="esquerda">
+            <div class="logo-titulo">
+                <img class="logo" src="./img/logo.png" alt="Logo">
+                <h2>PUP WORLD</h2>
+            </div>
+            <img class="dog" src="./img/dog.png" alt="Dog">
+        </div>
+        <div class="direita">
+            <h1>Que alegria, filhotinhos! Certifique-se de que seu pet tenha os cuidados de primeira qualidade.</h1>
+
+            <div class="div-formulario">
+                <form>
+                    <div class="div-pequena">
+                        <div class="div-upload">
+                            <div class="circulo">
+                                <img class="icone-cam" src="./img/icone_camera.png">
+                            </div>
+                            <p>Carregar uma foto</p>
+                        </div>
+                        <div class="div-nasc">
+                            <label>Data de Nascimento:</label>
+                            <input class="nasc" type="date">
+                        </div>
+                        <legend class="nivel-atv"><label>Nível de Atividade:</label></legend>
+                        <div class="espaco-atividade">
+
+                            <div class="campo-atividade">
+                                <input class="input-radio" type="radio" id="cBaixo" name="tNivel" value="baixo">
+                                <label class="nivel-radio" for="cBaixo">Baixo</label>
+                            </div>
+                            <div class="campo-atividade">
+                                <input class="input-radio" type="radio" id="cMedio" name="tNivel" value="medio">
+                                <label class="nivel-radio" for="cMedio">Médio</label>
+                            </div>
+                            <div class="campo-atividade">
+                                <input class="input-radio" type="radio" id="cAlto" name="tNivel" value="alto">
+                                <label class="nivel-radio" for="cAlto">Alto</label>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="div-peq-esq">
+                        <p><label for="cNome">Nome:</label>
+                            <input class="nome" type="text" name="tNome" id="cNome" placeholder="Nome do Pet">
+                        </p>
+
+                        <p><label for="cRaça">Raça:</label>
+                            <input class="raca" type="text" name="tRaça" id="cRaça" placeholder="Raça do Pet">
+                        </p>
+
+                        <legend><label>Gênero:</label></legend>
+                        <div class="div-genero">
+                            <div class="campo-genero">
+                                <input type="radio" id="genero-feminino" name="genero" value="feminino">
+                                <label for="genero-feminino">Feminino</label>
+                            </div>
+                            <div class="campo-genero">
+                                <input type="radio" id="genero-masculino" name="genero" value="masculino">
+                                <label for="genero-masculino">Masculino</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="div-peso">
+                        <legend><label>Peso:</label></legend>
+                        <div class="campo-peso">
+                            <div class="p-group">
+                                <p class="p1">0-25kg</p>
+                                <p class="p2">25-50kg</p>
+                                <p class="p3">50-100kg</p>
+                                <p class="p3">100+kg</p>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="campo-botao">
+                <div class="espaco-btn">
+                    <button class="btn-1">
+                        <p class="btn">Voltar</p>
+                    </button>
+                    <button class="btn-2">
+                        <p class="btn">Próximo</p>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
