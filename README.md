@@ -1,7 +1,19 @@
-DETALHES DO PROJETO:
-- Tecnologias Utilizadas: HTML, CSS
-- Funcionalidade: Este projeto é focado apenas na parte visual e não possui funcionalidades interativas no momento.
-- Objetivo: Praticar e aprimorar minhas habilidades em desenvolvimento web front-end, com foco na criação de interfaces atrativas e funcionais.
+## 📂 Sobre o Projeto
 
-COMO VISUALIZAR:
-- Para visualizar o projeto, basta abrir o arquivo index.html em seu navegador preferido.
+* Um projeto de interface web para preenchimento de informações sobre pets;
+* Desenvolvido utilizando HTML e CSS;
+* Permite que donos de cachorros informem dados como nome, peso e gênero.
+  
+## 🛠 Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+  
+## 📦 Funcionalidades
+
+* Formulário para preenchimento de dados do pet;
+* Campos para nome, peso e gênero;
+* Design simples e responsivo.
+  
+## 🖼 Gravação de tela
+https://drive.google.com/file/d/1kdzm0WB7OnzQVyFso5pO558zdBjTec5S/view?usp=sharing
