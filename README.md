@@ -16,4 +16,5 @@
 * Design simples e responsivo.
   
 ## 🖼 Gravação de tela
-https://drive.google.com/file/d/1kdzm0WB7OnzQVyFso5pO558zdBjTec5S/view?usp=sharing
+* Clique no link abaixo para visualizar o projeto:
+* https://drive.google.com/file/d/1kdzm0WB7OnzQVyFso5pO558zdBjTec5S/view?usp=sharing
