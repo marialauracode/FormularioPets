@@ -13,6 +13,6 @@
 
 * Formulário para preenchimento de dados do pet;
 * Campos para nome, peso e gênero;
-* Design simples e responsivo.
+* Design simples, apenas visual.
   
 
